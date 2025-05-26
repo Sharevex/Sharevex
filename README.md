@@ -7,7 +7,7 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/Sharevex-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/Sharevex/Sharevex/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Sharevex"><img height="30" src="https://raw.githubusercontent.com/Sharevex/Sharevex/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://x.com/sharef_ata"><img height="30" src="https://raw.githubusercontent.com/Sharevex/Sharevex/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/Sharevex"><img height="30" src="https://raw.githubusercontent.com/Sharevex/Sharevex/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/Sharevex/Sharevex/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://www.coffee.com/Sharevex"><img height="30" src="https://raw.githubusercontent.com/Sharevex/Sharevex/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -22,7 +22,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/_Sharevex_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_Sharevex_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_Sharevex_joshi"></a>
+   <a href="https://x.com/sharef_ata"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_sharef_ata?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_sharef_ata"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/maySharevext/maySharevext"> <img alt="Sharevex joshi github" src="https://badges.pufler.dev/visits/maySharevext/maySharevext"> </a> -->
    <a href="https://visitor-badge.glitch.me/badge?page_id=maySharevext.maySharevext"> <img alt="Sharevex joshi github" src="https://visitor-badge.glitch.me/badge?page_id=maySharevext.maySharevext"> </a>
  </p>

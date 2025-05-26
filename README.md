@@ -22,9 +22,8 @@
 
 
 <p align="center">
-   <a href="https://x.com/sharef_ata"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_sharef_ata?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_sharef_ata"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/maySharevext/maySharevext"> <img alt="Sharevex joshi github" src="https://badges.pufler.dev/visits/maySharevext/maySharevext"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=maySharevext.maySharevext"> <img alt="Sharevex joshi github" src="https://visitor-badge.glitch.me/badge?page_id=maySharevext.maySharevext"> </a>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=Sharevex.Sharevex"> <img alt="Sharevex github" src="https://visitor-badge.glitch.me/badge?page_id=Sharevex.Sharevex"> </a>
  </p>
  
  <h5 align="center">

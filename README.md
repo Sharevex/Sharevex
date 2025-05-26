@@ -45,7 +45,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏻 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegramUsername)
+ - 💬 Connect? lets get social 👉🏻 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/st0xn3t)
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>

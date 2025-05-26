@@ -6,6 +6,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/Sharevex-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/Sharevex/Sharevex/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://x.com/sharef_ata"><img height="30" src="https://raw.githubusercontent.com/Sharevex/Sharevex/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://t.me/st0xn3t"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></a>&nbsp;&nbsp;
  </p>
 
 

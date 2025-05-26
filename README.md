@@ -59,7 +59,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=maySharevext&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Sharevex&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
@@ -122,5 +122,5 @@
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/maySharevext/maySharevext/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/Sharevex/Sharevex/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>

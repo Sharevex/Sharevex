@@ -45,7 +45,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/Sharevex/Sharevex/master/svg/social/twitter.svg" >](https://twitter.com/_Sharevex_joshi)
+ - 💬 Connect? lets get social 👉🏻 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegramUsername)
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>

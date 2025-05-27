@@ -19,7 +19,7 @@
 
 <p align="center">
    <br> <!-- <a href="https://badges.pufler.dev/visits/maySharevext/maySharevext"> <img alt="Sharevex joshi github" src="https://badges.pufler.dev/visits/maySharevext/maySharevext"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=Sharevex.Sharevex"> <img alt="Sharevex github" src="https://visitor-badge.glitch.me/badge?page_id=Sharevex.Sharevex"> </a>
+   ![](https://komarev.com/ghpvc/?username=sharevex&color=green)
  </p>
  
  <h5 align="center">

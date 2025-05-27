@@ -18,9 +18,9 @@
 
 
 <p align="center">
-   <br> <!-- <a href="https://badges.pufler.dev/visits/maySharevext/maySharevext"> <img alt="Sharevex joshi github" src="https://badges.pufler.dev/visits/maySharevext/maySharevext"> </a> -->
-   ![](https://komarev.com/ghpvc/?username=sharevex&color=green)
- </p>
+  <img src="https://komarev.com/ghpvc/?username=sharevex&color=green" alt="GitHub profile views">
+</p>
+
  
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
